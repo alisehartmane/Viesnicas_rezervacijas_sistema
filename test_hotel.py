@@ -1,6 +1,6 @@
 import sqlite3
 import pytest
-from hotel3 import HotelApp  # pieņemam, ka tavs OOP kods ir hotel3.py
+from hotel6 import HotelApp  # pieņemam, ka tavs OOP kods ir hotel3.py
 
 
 # ===================================
